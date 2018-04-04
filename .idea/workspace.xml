@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c00dc8ce-42f7-4b74-8665-1c14b62b885a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/avtomatika.html" afterPath="$PROJECT_DIR$/avtomatika.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kovanie_izdelia.html" afterPath="$PROJECT_DIR$/kovanie_izdelia.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lestnici.html" afterPath="$PROJECT_DIR$/lestnici.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nergaveyka.html" afterPath="$PROJECT_DIR$/nergaveyka.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stalnie-dveri.html" afterPath="$PROJECT_DIR$/stalnie-dveri.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sdd74.github.io.iws" />
@@ -31,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.886076">
-              <caret line="138" column="25" selection-start-line="138" selection-start-column="25" selection-end-line="138" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.51265824">
+              <caret line="107" column="48" selection-start-line="107" selection-start-column="48" selection-end-line="107" selection-end-column="48" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -124,12 +120,12 @@
         <option value="$PROJECT_DIR$/lestnici.shtml.html" />
         <option value="$PROJECT_DIR$/nergaveyka.shtml.html" />
         <option value="$PROJECT_DIR$/stalnie-dveri.shtml.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/stalnie-dveri.html" />
         <option value="$PROJECT_DIR$/nergaveyka.html" />
         <option value="$PROJECT_DIR$/lestnici.html" />
         <option value="$PROJECT_DIR$/kovanie_izdelia.html" />
         <option value="$PROJECT_DIR$/avtomatika.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -286,7 +282,13 @@
       <option name="project" value="LOCAL" />
       <updated>1522859768583</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Menu edit...">
+      <created>1522859942079</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1522859942079</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -476,8 +478,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.886076">
-          <caret line="138" column="25" selection-start-line="138" selection-start-column="25" selection-end-line="138" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.51265824">
+          <caret line="107" column="48" selection-start-line="107" selection-start-column="48" selection-end-line="107" selection-end-column="48" />
           <folding>
             <element signature="n#style#0;n#a#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
