@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: http://уют74.рф/sitemap.xml
