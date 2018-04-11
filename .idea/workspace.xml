@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c00dc8ce-42f7-4b74-8665-1c14b62b885a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/avtomatika.html" afterPath="$PROJECT_DIR$/avtomatika.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kovanie_izdelia.html" afterPath="$PROJECT_DIR$/kovanie_izdelia.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lestnici.html" afterPath="$PROJECT_DIR$/lestnici.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nergaveyka.html" afterPath="$PROJECT_DIR$/nergaveyka.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stalnie-dveri.html" afterPath="$PROJECT_DIR$/stalnie-dveri.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sdd74.github.io.iws" />
@@ -380,7 +374,13 @@
       <option name="project" value="LOCAL" />
       <updated>1522864288817</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Edit meta-tag's in Head">
+      <created>1523463178893</created>
+      <option name="number" value="00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1523463178893</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TodoView">
@@ -398,6 +398,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2488263" sideWeight="0.4918415" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328594" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.48748043" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37962964" sideWeight="0.5312989" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37962964" sideWeight="0.4687011" order="7" side_tool="false" content_ui="tabs" />
@@ -407,7 +408,6 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.245121" sideWeight="0.5081585" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39969134" sideWeight="0.4968701" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.48748043" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -434,7 +434,8 @@
     <MESSAGE value="Liveinternet banner edit..." />
     <MESSAGE value="Yandex counter edit..." />
     <MESSAGE value="Purge old files." />
-    <option name="LAST_COMMIT_MESSAGE" value="Purge old files." />
+    <MESSAGE value="Edit meta-tag's in Head" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit meta-tag's in Head" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
